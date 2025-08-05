@@ -13,6 +13,10 @@ This project simulates a **two-direction traffic light system** (North-South and
 - Visualization (HMI) for real-time light indicators
 - Easily extendable logic for more intersections
 
+### 🖼️ HMI Preview
+
+![Traffic Light HMI](https://github.com/diffashada/trafficlightcontrol/raw/main/TrafficLightIMG.png)
+
 ## 🛠️ Technologies Used
 
 - **CODESYS V3.5**
